@@ -1,2 +1,2 @@
-# progamming-codes
+# programming-codes
 C++ projects
